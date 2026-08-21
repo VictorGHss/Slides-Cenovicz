@@ -1,0 +1,4 @@
+# Ignore temporary test files
+test_ppt.ps1
+.system_generated/
+*.log

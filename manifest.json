@@ -1,0 +1,17 @@
+{
+  "name": "Cenovicz Oftalmologia - Apresentação TV",
+  "short_name": "Cenovicz TV",
+  "description": "Painel de Slideshow e Digital Signage para TV Cenovicz Oftalmologia",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0b0e14",
+  "theme_color": "#0b0e14",
+  "icons": [
+    {
+      "src": "slides/slide_01.png",
+      "sizes": "1920x1080",
+      "type": "image/png"
+    }
+  ]
+}
